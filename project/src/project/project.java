@@ -23,6 +23,20 @@ public class project {
     char var1='a';
     System.out.println(var1);
     		
+    //byte takes 1 byte
+    byte byteMax=127;
+    byte byteMin=-128;
+    System.out.println("min range of byte"+byteMax);
+    System.out.println("min range of byte"+byteMin);
+    
+    //short takes 2 byte
+    short shortMax=32767;
+    short shortMin=-32768;
+    System.out.println("min range of short"+shortMax);
+    System.out.println("min range of short"+shortMin);
+    
+    //int takes 4 byte  //range bten -2147483648 to 2147483647
+    //long takes 8 bytes // range bten 
     
 	}
 
